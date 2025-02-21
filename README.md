@@ -50,38 +50,16 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
----
-
-## 🔥 Latest Projects  
-✅ **[AWS DevOps Pipeline](https://github.com/<your-username>/aws-devops-pipeline)** - Automated CI/CD pipeline using AWS CodePipeline.  
-✅ **[Kubernetes Cluster Deployment](https://github.com/<your-username>/k8s-cluster-deployment)** - End-to-end K8s setup with Helm & Prometheus.  
-✅ **[Dockerized Microservices](https://github.com/<your-username>/docker-microservices)** - Scalable microservices architecture using Docker.  
-
----
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/bikash-samal-423493282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href=" https://x.com/BikashSamal2002?t=nVkQIdv6zLaUZgwz3Y8PWg&s=08 " target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-bikashsamal.official07@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
