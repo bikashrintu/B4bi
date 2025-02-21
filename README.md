@@ -1,7 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/assets/main/banner.png" alt="Bikash Samal - Cloud Engineer | DevOps | AWS | Docker | Kubernetes | Python">
-</p>
 
 <h1 align="center">🚀 Hi, I'm Bikash Samal! 👨‍💻</h1>
 <h3 align="center">Cloud Engineer | DevOps | AWS | Docker | Kubernetes | Python</h3>
